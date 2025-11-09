@@ -227,8 +227,8 @@ Please ensure your code adheres to the existing style and that any new features 
 This project is licensed under the MIT License. See the `LICENSE` file for details (if one is created, otherwise assume MIT).
 
 ## Contact 📧
-For questions or support, please reach out to [rgogra914@gmail.com](mailto:rgogra914@gmail.com).
+For questions or support, please reach out to [jeetamarkr133@gmail.com](mailto:jeetamarkr133@gmail.com).
 
 ---
 
-Made with ❤️ by @RahulGogra
+Made with ❤️ by @Amarjeet Kumar
