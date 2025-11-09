@@ -120,7 +120,7 @@ const handleLogin = async (e: React.FormEvent) => {
                             "Leverage AI to build a resume that stands out and matches you with the perfect job."
                         </p>
                         <div className="pt-4">
-                            <p className="font-semibold">IntelliHire</p>
+                            <p className="font-semibold">SmartHire</p>
                             <p className="text-sm text-blue-200">Your Career Advancement Partner</p>
                         </div>
                     </div>

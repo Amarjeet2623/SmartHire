@@ -45,7 +45,7 @@ app.use('/api/activity', activityRoutes);
 
 // Basic route
 app.get('/', (req: Request, res: Response) => {
-    res.send('IntelliHire Backend is running!');
+    res.send('SmartHire Backend is running!');
 });
 
 // Start server

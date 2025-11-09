@@ -72,7 +72,7 @@ const handleSignup = async (e: React.FormEvent) => {
               </Link>
             </div>
 
-            <h1 className="text-3xl md:text-4xl font-bold text-theme-darkSlate">Join IntelliHire</h1>
+            <h1 className="text-3xl md:text-4xl font-bold text-theme-darkSlate">Join SmartHire</h1>
             <p className="text-muted-foreground">
               Create your account to unlock powerful tools designed to accelerate your job search.
             </p>
@@ -140,7 +140,7 @@ const handleSignup = async (e: React.FormEvent) => {
               "Stop guessing, start impressing. Let our AI guide you to a better resume and the right opportunities."
             </p>
             <div className="pt-4">
-              <p className="font-semibold">IntelliHire</p>
+              <p className="font-semibold">SmartHire</p>
               <p className="text-sm text-blue-200">Intelligent Career Tools</p>
             </div>
           </div>

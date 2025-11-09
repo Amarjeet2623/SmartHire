@@ -151,7 +151,7 @@ export function Navbar() {
         <div className="container mx-auto flex justify-between items-center">
           <Link to="/" className="flex items-center space-x-2 group">
             <span className="font-bold text-2xl text-slate-900 group-hover:text-blue-600 transition-colors">
-              IntelliHire
+              SmartHire
             </span>
           </Link>
 

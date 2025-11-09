@@ -1,8 +1,8 @@
-# IntelliHire 🚀
+# SmartHire 🚀
 
 ![Banner](public/screenshots/banner1.png)
 
-IntelliHire is a web application designed to assist users in optimizing their resumes and matching them with suitable job descriptions using AI.
+SmartHire is a web application designed to assist users in optimizing their resumes and matching them with suitable job descriptions using AI.
 
 ## Table of Contents
 - [Screenshots](#screenshots-)
@@ -21,7 +21,7 @@ IntelliHire is a web application designed to assist users in optimizing their re
 - [Contact](#contact)
 
 ## Screenshots 📸
-Here's a visual tour of IntelliHire:
+Here's a visual tour of SmartHire:
 
 | Screenshot 1 | Screenshot 2 |
 |--------------|--------------|
@@ -106,7 +106,7 @@ The project is organized into two main parts:
 *   **Database:** Firebase Firestore is used as the NoSQL database. It stores user account information, links to uploaded resumes (stored possibly in Firebase Storage or locally), parsed resume content, analysis scores, generated resume data, and job matching results.
 
 ## User Workflow 📊
-A typical user interaction with IntelliHire follows these steps:
+A typical user interaction with SmartHire follows these steps:
 
 1.  **Authentication:**
     *   New users sign up for an account.
@@ -157,8 +157,8 @@ Key route groups under `/api`:
 ## Installation 🛠️
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/sushil930/IntelliHire.git
-    cd IntelliHire
+    git clone https://github.com/amarjeet2326/SmartHire.git
+    cd SmartHire
     ```
 
 2.  **Install Frontend Dependencies:**
